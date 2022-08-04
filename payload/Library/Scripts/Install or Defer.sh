@@ -13,7 +13,7 @@
 #                   required updates have been run, and if updates requiring a
 #                   restart were run, the system restarts automatically.
 #                   https://github.com/mpanighetti/install-or-defer
-#         Authors:  Mario Panighetti and Elliot Jordan
+#         Authors:  Mario Panighetti, Robert Lynn, and Elliot Jordan
 #         Created:  2017-03-09
 #   Last Modified:  2022-06-21
 #         Version:  5.0.6
